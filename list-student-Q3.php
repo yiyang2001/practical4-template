@@ -101,7 +101,7 @@ $PAGE_TITLE = 'Select Student';
           // https://www.w3schools.com/php/func_mysqli_free_result.asp
           mysqli_free_result($result);
           // https://www.w3schools.com/php/func_mysqli_close.asp
-          mysqli_close($result);
+          mysqli_close($con);
         ///////////////////////////////////////////////////////////////////////
         ?>
     </table>

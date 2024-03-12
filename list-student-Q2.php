@@ -101,7 +101,7 @@ $PAGE_TITLE = 'Select Student';
         // This function is optional, because PHP will automatically close the connection at the end of a script
         // It is a good practice to close the database connection when you are done with it
         // https://www.w3schools.com/php/func_mysqli_close.asp
-        mysqli_close($result);
+        mysqli_close($con);
         ///////////////////////////////////////////////////////////////////////
         ?>
     </table>
