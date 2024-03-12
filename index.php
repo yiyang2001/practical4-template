@@ -12,9 +12,9 @@
             <li>Q1: Create Database</a></li>
             <li>Q2: <a href="list-student-Q2.php">List Student - Version 1</a></li>
             <li>Q3: <a href="list-student-Q3.php">List Student - Version 2</a></li>
-            <li>Q4: <a href="insert-student.php">Insert Student</a></li>
+            <li>Q4: <a href="insert-student-Q4.php">Insert Student</a></li>
             <li>Q5: <a href="list-student-Q5.php">List Student - Version 3</a></li>
-            <li>Q6: <a href="list-student.php">List Student - Version 4</a></li>
+            <li>Q6: <a href="list-student-Q6.php">List Student - Version 4</a></li>
         </ul>
     </body>
 </html>
